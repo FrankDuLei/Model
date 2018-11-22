@@ -15,5 +15,4 @@ public interface Observer {
 	//取得观察者的名称
 	public String getObserverName();
 	
-	//
 }

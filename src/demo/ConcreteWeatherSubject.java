@@ -26,6 +26,7 @@ public class ConcreteWeatherSubject extends WeatherSubject {
 				if ("woman".equals(observer.getObserverName())) {
 					observer.update(this);
 				}
+				
 				if ("mum".equals(observer.getObserverName())) {
 					observer.update(this);
 				}
